@@ -1,6 +1,5 @@
 package compass;
 
-import compass.Rover;
 import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
 import org.junit.Test;
