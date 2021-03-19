@@ -1,3 +1,5 @@
+package fizzbuzz;
+
 public class FizzBuzz {
     public String generate(int minNumber, int maxNumber) {
         return evaluateNumbers(minNumber, maxNumber);
