@@ -1,4 +1,4 @@
-package strings;
+package strings.stringprocessor;
 
 public class StringProcessor {
     public int countVowels(String word) throws EmptyStringException {

@@ -1,4 +1,4 @@
-package strings;
+package strings.stringhelper;
 
 public class StringHelper {
 
