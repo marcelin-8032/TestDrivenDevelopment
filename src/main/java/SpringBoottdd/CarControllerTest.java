@@ -1,4 +1,4 @@
-package TDDWithSpringBoot;
+package SpringBoottdd;
 
 
 import org.junit.jupiter.api.Test;
