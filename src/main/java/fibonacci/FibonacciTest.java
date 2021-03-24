@@ -8,7 +8,7 @@ import static org.junit.Assert.assertEquals;
 public class FibonacciTest {
 
 
-    Fibonacci f = new Fibonacci();
+    private Fibonacci f;
 
 
     @Before
@@ -21,6 +21,7 @@ public class FibonacciTest {
         assertEquals(0, f.fib(0));
 
     }
+
     @Test
     public void testFirstMemberFibonacciSeries() {
         assertEquals(1, f.fib(1));
